@@ -5,6 +5,15 @@ This Power BI project provides a **comprehensive financial health and risk asses
 The dashboard was designed to help businesses and financial institutions identify **low, medium, and high-risk individuals**, evaluate financial stability, and support **data-driven lending and investment decisions**.
 
 ---
+## 🖼️ Dashboard Preview
+
+### 📊 Financial Health & Risk Dashboard - Overview
+![Dashboard Overview](https://github.com/yourusername/yourrepo/assets/12345678/abcd1234efgh)
+
+### 💡 Financial Health & Risk Dashboard - Risk Analysis
+![Dashboard Risk Analysis](https://github.com/yourusername/yourrepo/assets/12345678/ijkl5678mnop)
+
+---
 
 ## 🧾 Dataset Details
 **Dataset Name:** Financial Risk Assessment  
