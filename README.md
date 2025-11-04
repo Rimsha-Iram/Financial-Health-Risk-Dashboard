@@ -11,7 +11,7 @@ The dashboard was designed to help businesses and financial institutions identif
 ![Dashboard Overview](https://github.com/Rimsha-Iram/Financial-Health-Risk-Dashboard/blob/main/Overview.png)
 
 ### 💡 Financial Health & Risk Dashboard - Risk Analysis
-![Dashboard Risk Analysis](https://github.com/Rimsha-Iram/Financial-Health-Risk-Dashboard/blob/main/RiskAnalysis.png)
+![Dashboard Risk Analysis](https://github.com/Rimsha-Iram/Financial-Health-Risk-Dashboard/blob/main/Risk%20Analysis.png)
 
 ---
 
